@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# plantilla de variables de entorno (sí se sube)
+!.env.example
+
+# notas de trabajo y URLs de clientes (no se suben)
+PROMPT.md
+PROMPT-CONTINUAR.md
+
